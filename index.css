@@ -82,18 +82,3 @@ p {
     transform: scale(1.2);
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
-@media screen and (min-width: 900px) {
-    body {
-        height: 100%;
-        background-size:auto;
-    }
-   .game{
-    margin-top: 13%;
-    width: 500px;
-    height: 600px;
-   }
-   .btns {
-       margin-top: 30%;
-   }
-
-}
